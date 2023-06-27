@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Klimaatverandering zorgen of geen zorgen? # Change this to your book title.
+title: Data Stories Project # Change this to your book title.
 author: Steven van Wely&Kasper Klink, N3 # Change this to your name (or your team/organization name).
 
 # Force re-execution of notebooks on each build.
